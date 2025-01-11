@@ -61,7 +61,6 @@ This project focuses on understanding, simulating, and analyzing network traffic
 
 - **Project Link**: [Generating, Capturing, and Analyzing DoS and DDoS-centric Network Traffic](https://github.com/StephVergil/Generating-capturing-and-Analyzing-DoS-and-DDoS-centric-Network-Traffic/blob/main/vNetLab3%20Lab%205.docx.pdf)
 - [Wireshark Documentation](https://www.wireshark.org/docs/)
-- [Hping3 User Guide](http://www.hping.org/)
 - [Snort Rules Documentation](https://snort.org/documents)
 - [Understanding DDoS Attacks](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/)
 
